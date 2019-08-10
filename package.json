@@ -1,7 +1,7 @@
 {
-  "name": "stack-array",
+  "name": "trace-array",
   "version": "0.0.1",
-  "description": "Parse a stack into an array of objects",
+  "description": "Parse a trace into an array of usable objects",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
